@@ -1,0 +1,21 @@
+# Xcode user settings and workspace
+xcuserdata/
+*.xcscmblueprint
+*.xccheckout
+
+# Derived build data
+DerivedData/
+build/
+*.ipa
+*.dSYM
+*.hmap
+
+# SwiftPM
+.build/
+
+# Playgrounds
+timeline.xctimeline
+playground.xcworkspace
+
+# macOS
+.DS_Store
